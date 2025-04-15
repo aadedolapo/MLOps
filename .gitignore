@@ -1,2 +1,4 @@
 Anaconda3-2022.05-Linux-x86_64.sh
-/notebooks/.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
+notebooks/mlruns/
+mlflow.db
