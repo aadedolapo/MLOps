@@ -3,3 +3,5 @@ notebooks/.ipynb_checkpoints/
 notebooks/mlruns/
 mlflow.db
 aws_endpoint.txt
+aws/
+awscliv2.zip
